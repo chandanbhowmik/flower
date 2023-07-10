@@ -1,0 +1,33 @@
+.main-header{
+    display: flex;
+    background-color:rgba(237, 210, 210, 0.888);
+    align-items: center; 
+    padding: 70px;
+}
+.header-heading{
+    font-size: 40px;
+}
+.header-content{
+    padding-right: 50px;
+}
+.header-btn{
+    background-color: #E55473;
+    border: 0px;
+    padding: 10px;
+}
+.flower{
+    border-top-right-radius: 250px;
+    border-top-left-radius: 300px;
+    width: 220px;
+    height: 300px;
+    align-items: center;
+    padding-left: 65px;
+}
+.section-heading{
+    text-align: center;
+}
+.optional-photo{
+    padding: 50px;
+    display: flex;
+    
+}
